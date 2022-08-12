@@ -1,7 +1,7 @@
 # Web Scraping for Web Page's Adidas
 
 This project has the goal getting the images from the Web Page of Adidas company.
-Those images will be used for educational purposes, appling in real project the 
+Those images will be used for educational purposes, applying in real project the 
 techniques for extrating data from the web
 The URL of the webpage is https://www.adidas.com/us/shoes?grid=true
 
