@@ -21,4 +21,5 @@ Xpath to find the `src` of `<img>`.
 
 4. The final step is connecting with mongodb to save the images.
 
+5. Add an example
 ![image](https://raw.githubusercontent.com/dante-cmd/Animated-Product-Card/main/ultraboost-22-shoes.jpg)
